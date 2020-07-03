@@ -1,0 +1,2 @@
+module JavaBatch7 {
+}
